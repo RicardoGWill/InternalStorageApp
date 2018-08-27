@@ -1,0 +1,2 @@
+# InternalStorageApp
+This app writes to an Internal Storage text file.  There is a multi-line EditText (with multiple lines implemented in XML).  By clicking one button, you save the text that you entered into the EditText.  Then, by clicking another button, that text is retrieved and shown in the TextView at the bottom.  Note that even if you close the app, you can still retrieve the last saved text.
